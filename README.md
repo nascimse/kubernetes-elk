@@ -1,6 +1,6 @@
 # ELK - Elasticsearch, Logstash, Kibana on Kubernetes with filebeat collector
 
-01 - Variables below can be change on script stack-elk-kubernetes.sh for the  needd.
+01 - Variables below can be change on script stack-elk-kubernetes.sh for the  need.
 
      MEMORY
 
